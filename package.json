@@ -1,0 +1,8 @@
+{
+    "name": "my-card-package",
+    "version": "1.0.0",
+    "description": "React Card component in raw JSX (no bundlers, no TS, no Next)",
+    "main": "Card.jsx",
+    "license": "MIT"
+  }
+  
